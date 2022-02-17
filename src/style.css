@@ -1,5 +1,6 @@
 body {
   font-family: arial, sans-serif;
+  background-color: #eafbff;
 }
 
 h1 {
@@ -39,6 +40,7 @@ li:first-letter {
   padding: 20px;
   border: 1px solid #dadde1;
   border-radius: 5px;
+  background-color: #eed6d3;
 }
 
 .overview {
